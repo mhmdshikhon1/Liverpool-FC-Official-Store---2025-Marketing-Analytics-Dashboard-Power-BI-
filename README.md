@@ -23,6 +23,15 @@ You can interact with the live dashboard here:
   - Custom measures for Profit Margin, AOV, and Marketing ROI.
   - Conditional formatting for visual storytelling.
 - **Omnichannel Insights**: Comparison between Online (E-commerce) and Physical store performance.
+---
+
+## 💡 Strategic Recommendations (Actionable Insights)
+1. **Fan Conversion Strategy**: Implement a **Retargeting Campaign** specifically for "Non-Members" who purchased Kits (the top-selling category). Offering a tiered discount for joining the "Red Membership" can convert one-time buyers into loyal, long-term fans.
+2. **Geographical Expansion**: With **International Shipping** matching the revenue of the Anfield Megastore (~£0.9M), establishing a **Distribution Hub in Asia** (specifically targeting the high-growth Thai market) would reduce shipping costs and delivery times, potentially doubling regional sales.
+3. **Social Commerce Optimization**: Since Instagram and TikTok are the highest-performing marketing channels, launching **Exclusive Social Bundles** (e.g., Jersey + Cap + Scarf) priced at £110+ can further increase the **Average Order Value (AOV)** from its current £90.64.
+4. **Smart Inventory Management**: Ensure high stock levels for the **"Home Jersey (Elite)"** during peak months (March and October). As the most profitable item, any "Out of Stock" scenario during these peaks represents a significant loss in net profit.
+5. **Cross-selling Underperforming Categories**: To move slow-moving inventory in **Accessories and Equipment**, implement a **Cross-selling Algorithm** that offers these items at a 10% discount when a customer adds "Training Wear" to their cart.
+---
 
 ## 📁 Repository Structure
 - `/Dataset_files`: Contains the raw CSV data (Sales, Products, Customers, etc.).
