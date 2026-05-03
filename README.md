@@ -41,4 +41,6 @@ You can interact with the live dashboard here:
 
 ---
 **Developed by: Mohamed Shaikhoun** 
+
+---
 *You'll Never Walk Alone 🔴*
