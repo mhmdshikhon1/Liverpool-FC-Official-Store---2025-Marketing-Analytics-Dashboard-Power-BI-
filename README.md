@@ -38,4 +38,7 @@ You can interact with the live dashboard here:
 
 ---
 **Note**: The dataset used in this project is synthetic (AI-generated) and is intended solely for educational and portfolio demonstration purposes. 
+
+---
+**Developed by: Mohamed Shaikhoun** 
 *You'll Never Walk Alone 🔴*
